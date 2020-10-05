@@ -1,1 +1,436 @@
-theme: jekyll-theme-slate
+[0:49 a. m., 5/10/2020] Irvin: <!DOCTYPE html>
+<html lang="es-MX" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/xmlrpc.php">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>¡Hola mundo! &#8211; Contaminación del agua</title>
+<meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Contaminación del agua &raquo; Feed" href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Contaminación del agua &raquo; RSS de los comentarios" href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Contaminación del agua &raquo; ¡Hola mundo! RSS de los comentarios" href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/2020/10/05/hola-mundo/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/agotamientodelaguaennuestroplaneta.azurewebsites.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://agotamientodelaguaennuestroplaneta.azurewebsites.net/wp-includes/css/dist/block-library/style.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://agotamientodelaguaennuestroplaneta.azurewebsites.net/wp-includes/css/dist/block-library/theme.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='/wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css'  href='/wp-content/themes/twentysixteen/style.css?ver=5.2.7' type='text/css' media='all' />
+<style id='twentysixteen-style-inline-css' type='text/css'>
+
+		/* Custom Page Background Color */
+		.site {
+			background-color: #25ede6;
+		}
+
+		mark,
+		ins,
+		button,
+		button[disabled]:hover,
+		button[disabled]:focus,
+		input[type="button"],
+		input[type="button"][disabled]:hover,
+		input[type="button"][disabled]:focus,
+		input[type="reset"],
+		input[type="reset"][disabled]:hover,
+		input[type="reset"][disabled]:focus,
+		input[type="submit"],
+		input[type="submit"][disabled]:hover,
+		input[type="submit"][disabled]:focus,
+		.menu-toggle.toggled-on,
+		.menu-toggle.toggled-on:hover,
+		.menu-toggle.toggled-on:focus,
+		.pagination .prev,
+		.pagination .next,
+		.pagination .prev:hover,
+		.pagination .prev:focus,
+		.pagination .next:hover,
+		.pagination .next:focus,
+		.pagination .nav-links:before,
+		.pagination .nav-links:after,
+		.widget_calendar tbody a,
+		.widget_calendar tbody a:hover,
+		.widget_calendar tbody a:focus,
+		.page-links a,
+		.page-links a:hover,
+		.page-links a:focus {
+			color: #25ede6;
+		}
+
+		@media screen and (min-width: 56.875em) {
+			.main-navigation ul ul li {
+				background-color: #25ede6;
+			}
+
+			.main-navigation ul ul:after {
+				border-top-color: #25ede6;
+				border-bottom-color: #25ede6;
+			}
+		}
+	
+
+		/* Custom Main Text Color */
+		body,
+		blockquote cite,
+		blockquote small,
+		.main-navigation a,
+		.menu-toggle,
+		.dropdown-toggle,
+		.social-navigation a,
+		.post-navigation a,
+		.pagination a:hover,
+		.pagination a:focus,
+		.widget-title a,
+		.site-branding .site-title a,
+		.entry-title a,
+		.page-links > .page-links-title,
+		.comment-author,
+		.comment-reply-title small a:hover,
+		.comment-reply-title small a:focus {
+			color: #2241d8
+		}
+
+		blockquote,
+		.menu-toggle.toggled-on,
+		.menu-toggle.toggled-on:hover,
+		.menu-toggle.toggled-on:focus,
+		.post-navigation,
+		.post-navigation div + div,
+		.pagination,
+		.widget,
+		.page-header,
+		.page-links a,
+		.comments-title,
+		.comment-reply-title {
+			border-color: #2241d8;
+		}
+
+		button,
+		button[disabled]:hover,
+		button[disabled]:focus,
+		input[type="button"],
+		input[type="button"][disabled]:hover,
+		input[type="button"][disabled]:focus,
+		input[type="reset"],
+		input[type="reset"][disabled]:hover,
+		input[type="reset"][disabled]:focus,
+		input[type="submit"],
+		input[type="submit"][disabled]:hover,
+		input[type="submit"][disabled]:focus,
+		.menu-toggle.toggled-on,
+		.menu-toggle.toggled-on:hover,
+		.menu-toggle.toggled-on:focus,
+		.pagination:before,
+		.pagination:after,
+		.pagination .prev,
+		.pagination .next,
+		.page-links a {
+			background-color: #2241d8;
+		}
+
+		/* Border Color */
+		fieldset,
+		pre,
+		abbr,
+		acronym,
+		table,
+		th,
+		td,
+		input[type="date"],
+		input[type="time"],
+		input[type="datetime-local"],
+		input[type="week"],
+		input[type="month"],
+		input[type="text"],
+		input[type="email"],
+		input[type="url"],
+		input[type="password"],
+		input[type="search"],
+		input[type="tel"],
+		input[type="number"],
+		textarea,
+		.main-navigation li,
+		.main-navigation .primary-menu,
+		.menu-toggle,
+		.dropdown-toggle:after,
+		.social-navigation a,
+		.image-navigation,
+		.comment-navigation,
+		.tagcloud a,
+		.entry-content,
+		.entry-summary,
+		.page-links a,
+		.page-links > span,
+		.comment-list article,
+		.comment-list .pingback,
+		.comment-list .trackback,
+		.comment-reply-link,
+		.no-comments,
+		.widecolumn .mu_register .mu_alert {
+			border-color: #2241d8; /* Fallback for IE7 and IE8 */
+			border-color: rgba( 34, 65, 216, 0.2);
+		}
+
+		hr,
+		code {
+			background-color: #2241d8; /* Fallback for IE7 and IE8 */
+			background-color: rgba( 34, 65, 216, 0.2);
+		}
+
+		@media screen and (min-width: 56.875em) {
+			.main-navigation ul ul,
+			.main-navigation ul ul li {
+				border-color: rgba( 34, 65, 216, 0.2);
+			}
+
+			.main-navigation ul ul:before {
+				border-top-color: rgba( 34, 65, 216, 0.2);
+				border-bottom-color: rgba( 34, 65, 216, 0.2);
+			}
+		}
+	
+
+		/* Custom Secondary Text Color */
+
+		/**
+		 * IE8 and earlier will drop any block with CSS3 selectors.
+		 * Do not combine these styles with the next block.
+		 */
+		body:not(.search-results) .entry-summary {
+			color: #257f02;
+		}
+
+		blockquote,
+		.post-password-form label,
+		a:hover,
+		a:focus,
+		a:active,
+		.post-navigation .meta-nav,
+		.image-navigation,
+		.comment-navigation,
+		.widget_recent_entries .post-date,
+		.widget_rss .rss-date,
+		.widget_rss cite,
+		.site-description,
+		.author-bio,
+		.entry-footer,
+		.entry-footer a,
+		.sticky-post,
+		.taxonomy-description,
+		.entry-caption,
+		.comment-metadata,
+		.pingback .edit-link,
+		.comment-metadata a,
+		.pingback .comment-edit-link,
+		.comment-form label,
+		.comment-notes,
+		.comment-awaiting-moderation,
+		.logged-in-as,
+		.form-allowed-tags,
+		.site-info,
+		.site-info a,
+		.wp-caption .wp-caption-text,
+		.gallery-caption,
+		.widecolumn label,
+		.widecolumn .mu_register label {
+			color: #257f02;
+		}
+
+		.widget_calendar tbody a:hover,
+		.widget_calendar tbody a:focus {
+			background-color: #257f02;
+		}
+	
+</style>
+<link rel='stylesheet' id='twentysixteen-block-style-css'  href='/wp-content/themes/twentysixteen/css/blocks.css?ver=20181230' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='/wp-content/themes/twentysixteen/css/ie.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='/wp-content/themes/twentysixteen/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='/wp-content/themes/twentysixteen/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://agotamientodelaguaennuestroplaneta.azurewebsites.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://agotamientodelaguaennuestroplaneta.azurewebsites.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.7" />
+<link rel="canonical" href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/2020/10/05/hola-mundo/" />
+<link rel='shortlink' href='http://agotamientodelaguaennuestroplaneta.azurewebsites.net/?p=1' />
+<link rel="alternate" type="application/json+oembed" href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fagotamientodelaguaennuestroplaneta.azurewebsites.net%2Findex.php%2F2020%2F10%2F05%2Fhola-mundo%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fagotamientodelaguaennuestroplaneta.azurewebsites.net%2Findex.php%2F2020%2F10%2F05%2Fhola-mundo%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #24a3e2; }
+</style>
+			<style type="text/css" id="wp-custom-css">
+			gfvhbjnklml,ñ		</style>
+		</head>
+
+<body class="post-template-default single single-post postid-1 single-format-standard custom-background wp-custom-logo wp-embed-responsive">
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					<a href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/" class="custom-logo-link" rel="home"><img width="224" height="225" src="/wp-content/uploads/2020/10/descarga-13.jpg" class="custom-logo" alt="Contaminación del agua" srcset="/wp-content/uploads/2020/10/descarga-13.jpg 224w, /wp-content/uploads/2020/10/descarga-13-150x150.jpg 150w" sizes="(max-width: 224px) 85vw, 224px" /></a>
+											<p class="site-title"><a href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/" rel="home">Contaminación del agua</a></p>
+												<p class="site-description">La contaminación del agua es cualquier cambio químico, físico o biológico en la calidad del agua que tiene un efecto dañino en cualquier cosa viva que consuma ese agua. Cuando los seres humanos beben el agua contaminada tienen a menudo problemas de salud.</p>
+									</div><!-- .site-branding -->
+
+							</div><!-- .site-header-main -->
+
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+<div id="primary" class="content-area">
+	<main id="main" class="site-main" role="main">
+		
+<article id="post-1" class="post-1 post type-post status-publish format-standard hentry category-sin-categoria">
+	<header class="entry-header">
+		<h1 class="entry-title">¡Hola mundo!</h1>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='http://0.gravatar.com/avatar/3432711c4f0492158be0d6a54fb22a49?s=49&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3432711c4f0492158be0d6a54fb22a49?s=98&#038;d=mm&#038;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">Autor </span> <a class="url fn n" href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/author/eduardo-resendiz/">Eduardo Resendiz</a></span></span><span class="posted-on"><span class="screen-reader-text">Publicado el </span><a href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/2020/10/05/hola-mundo/" rel="bookmark"><time class="entry-date published updated" datetime="2020-10-05T02:09:13+00:00">5 octubre, 2020</time></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-1 -->
+
+<div id="comments" class="comments-area">
+
+			<h2 class="comments-title">
+			Un comentario en &ldquo;¡Hola mundo!&rdquo;		</h2>
+
+		
+		<ol class="comment-list">
+					<li id="comment-1" class="comment even thread-even depth-1">
+			<article id="div-comment-1" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=42&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=84&#038;d=mm&#038;r=g 2x' class='avatar avatar-42 photo' height='42' width='42' />						<b class="fn"><a href='https://wordpress.org/' rel='external nofollow' class='url'>Un comentarista de WordPress</a></b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/2020/10/05/hola-mundo/#comment-1">
+							<time datetime="2020-10-05T02:09:13+00:00">
+								5 octubre, 2020 a las 2:09 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Hola, esto es un comentario.<br />
+Para empezar a moderar, editar y borrar comentarios, por favor, visita la pantalla de comentarios en el escritorio.<br />
+Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gravatar</a>.</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='/index.php/2020/10/05/hola-mundo/?replytocom=1#respond' data-commentid="1" data-postid="1" data-belowelement="div-comment-1" data-respondelement="respond" aria-label='Responder a Un comentarista de WordPress'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+	
+		<div id="respond" class="comment-respond">
+		<h2 id="reply-title" class="comment-reply-title">Deja un comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/index.php/2020/10/05/hola-mundo/#respond" style="display:none;">Cancelar respuesta</a></small></h2>			<form action="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-notes"><span id="email-notes">Tu dirección de correo electrónico no será publicada.</span> Los campos obligatorios están marcados con <span class="required"></span></p><p class="comment-form-comment"><label for="comment">Comentario</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Nombre <span class="required"></span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Correo electrónico <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Web</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /><label for="wp-comment-cookies-consent">Guardar mi nombre, correo electrónico y sitio web en este navegador para la próxima vez que haga un comentario.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Publicar comentario" /> <input type='hidden' name='comment_post_ID' value='1' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- .comments-area -->
+
+	</main><!-- .site-main -->
+
+	
+</div><!-- .content-area -->
+
+
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="search-2" class="widget widget_search">
+<form role="search" method="get" class="search-form" action="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/">
+	<label>
+		<span class="screen-reader-text">Buscar por:</span>
+		<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+	</label>
+	<button type="submit" class="search-submit"><span class="screen-reader-text">Buscar</span></button>
+</form>
+</section>		<section id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Ya no contaminar</h2>		<ul>
+											<li>
+					<a href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/2020/10/05/hola-mundo/">¡Hola mundo!</a>
+									</li>
+					</ul>
+		</section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Añade un comentario</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>Un comentarista de WordPress</a></span> en <a href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/2020/10/05/hola-mundo/#comment-1">¡Hola mundo!</a></li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Elaborado en</h2>		<ul>
+				<li><a href='http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/2020/10/'>octubre 2020</a></li>
+		</ul>
+			</section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title">Meta</h2>			<ul>
+						<li><a href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/wp-login.php">Acceder</a></li>
+			<li><a href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/feed/"><abbr title="Really Simple Syndication">RSS</abbr> de las entradas</a></li>
+			<li><a href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/index.php/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> de los comentarios</a></li>
+			<li><a href="https://es-mx.wordpress.org/" title="Funciona gracias a WordPress, una avanzada plataforma de publicación personal semántica.">WordPress.org</a></li>			</ul>
+			</section>	</aside><!-- .sidebar .widget-area -->
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			
+			
+			<div class="site-info">
+								<span class="site-title"><a href="http://agotamientodelaguaennuestroplaneta.azurewebsites.net/" rel="home">Contaminación del agua</a></span>
+								<a href="https://es-mx.wordpress.org/" class="imprint">
+					Creado con WordPress				</a>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<script type='text/javascript' src='/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20160816'></script>
+<script type='text/javascript' src='http://agotamientodelaguaennuestroplaneta.azurewebsites.net/wp-includes/js/comment-reply.min.js?ver=5.2.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expande el men\u00fa inferior","collapse":"plegar men\u00fa inferior"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/themes/twentysixteen/js/functions.js?ver=20181230'></script>
+<script type='text/javascript' src='http://agotamientodelaguaennuestroplaneta.azurewebsites.net/wp-includes/js/wp-embed.min.js?ver=5.2.7'></script>
+</body>
+</html>
